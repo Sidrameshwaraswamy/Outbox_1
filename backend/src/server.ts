@@ -1,4 +1,3 @@
-```ts
 import express from 'express';
 import cors from 'cors';
 import session from 'express-session';
@@ -373,4 +372,3 @@ app.listen(PORT, HOST, () => {
     `ReachInbox API listening on http://${HOST}:${PORT}`
   );
 });
-```
